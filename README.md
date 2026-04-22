@@ -2,7 +2,7 @@
 
 Prosty model klasyfikacji tekstu (pozytywny / negatywny) zbudowany w Python z użyciem scikit-learn.
 
-## 📌 Opis projektu
+## Opis projektu
 
 Projekt wykorzystuje klasyczne podejście NLP:
 - TF-IDF (wektoryzacja tekstu)
@@ -10,13 +10,13 @@ Projekt wykorzystuje klasyczne podejście NLP:
 
 Model analizuje tekst i przewiduje ocenę.
 
-## 🧠 Technologie
+## Technologie
 
 - Python
 - scikit-learn
 - pandas
 
-## ▶️ Jak uruchomić
+## Jak uruchomić
 
 ```bash
 git clone https://github.com/MarcinLu/ai-text-classifier.git
